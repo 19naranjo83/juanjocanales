@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD ECU | EL CANAL DEL FUTBOL
+http://goplays.xyz:80/play/iBfur1zfAJw-eOaSLHNpoW2RIN6IpSbYdbez1DmehSzMJhYWwqPsYDeRsmmn02Y-/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD ECU | CANAL DEL FUTBOL | #2
+http://goplays.xyz:80/play/iBfur1zfAJw-eOaSLHNpocGIEC8qXDREGfiLuL4wg1ehutCpE0-GIptQiMDh4elw/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD AR | ESPN 1
+http://goplays.xyz:80/play/iBfur1zfAJw-eOaSLHNpoebX_8TdrfX5DVsPGjcmtuIxaFZtngbvn7nuM1WON7II/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD AR | ESPN 2
+http://goplays.xyz:80/play/iBfur1zfAJw-eOaSLHNpocuPay_vigRQcJe8pi7aCLRZy6q6UwMII4zu2KQyrY5G/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD AR | ESPN 3
